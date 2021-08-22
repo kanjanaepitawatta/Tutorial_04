@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tutorial_Camera</string>
+    <string name="btn_camera">Open Camera</string>
+</resources>
